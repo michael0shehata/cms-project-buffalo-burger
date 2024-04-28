@@ -1,0 +1,16 @@
+2023-01-10T10:21:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\beginning\buffalo-burger\wp-content\plugins\wpforms-lite\vendor\composer\ClassLoader.php on line 384
+
+2023-01-10T10:21:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\beginning\buffalo-burger\wp-includes\widgets\class-wp-widget-media.php on line 513
+
+2023-01-10T10:22:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\beginning\buffalo-burger\wp-content\plugins\wpforms-lite\includes\templates\class-base.php on line 319
+
+2023-01-10T10:22:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\beginning\buffalo-burger\wp-content\plugins\wpforms-lite\src\Admin\Settings\Captcha.php on line 434
+
+2023-01-10T10:23:11+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\beginning\buffalo-burger\wp-content\plugins\woocommerce\packages\action-scheduler\classes\abstracts\ActionScheduler.php on line 121
+
+2023-01-10T10:32:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\beginning\buffalo-burger\wp-content\plugins\woocommerce\src\Internal\Utilities\DatabaseUtil.php on line 254
+
+2023-01-10T10:33:06+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\beginning\buffalo-burger\wp-content\plugins\wpforms-lite\src\Lite\Admin\Pages\Addons.php on line 126
+
+2023-01-10T11:06:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\beginning\buffalo-burger\wp-includes\class-wpdb.php on line 2187
+
